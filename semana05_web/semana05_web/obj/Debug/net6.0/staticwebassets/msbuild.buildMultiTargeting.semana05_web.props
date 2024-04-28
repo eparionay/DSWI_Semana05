@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\semana05_web.props" />
+</Project>
